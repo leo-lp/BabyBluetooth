@@ -229,10 +229,10 @@ step2:导入.h文件
 - 待定...
 - [官方CoreBuetooth支持页](https://developer.apple.com/bluetooth)
 - [Bluetooth Accessory Design Guidelines for Apple Products](https://developer.apple.com/hardwaredrivers/BluetoothDesignGuidelines.pdf)
-
+- [知乎live：一小时蓝牙应用开发科普 文字整理](http://liuyanwei.jumppo.com/2017/01/23/zhihu-live-a-hour-for-bluetooth-0.html)
 
 # 组织和交流
-- qq交流群6: 284341984
+- qq交流群6: 284341984(满）
 - qq交流群5: 426082944(满）
 - qq交流群4: 313084771(满）
 - qq交流群3：530142592(满）
@@ -241,6 +241,10 @@ step2:导入.h文件
 - 个人微信公众号
 
 ![个人微信公众号](qrcode.jpg)
+
+# 招聘
+
+  阿里云-iot事业部招人，p6 p7 前端,android,iOS,风光无限 一起造作，有兴趣的投简历到 coolnameismy@gmail.com
 
 # 期待
 
